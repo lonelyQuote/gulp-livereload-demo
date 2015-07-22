@@ -1,0 +1,27 @@
+{
+  "name": "gulp-livereload-demo",
+  "version": "1.0.0",
+  "description": "gulp-livereload的简单demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lonelyQuote/gulp-livereload-demo.git"
+  },
+  "keywords": [
+    "gulp-livereload",
+    "demo"
+  ],
+  "author": "单泠浩",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonelyQuote/gulp-livereload-demo/issues"
+  },
+  "homepage": "https://github.com/lonelyQuote/gulp-livereload-demo",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0"
+  }
+}
